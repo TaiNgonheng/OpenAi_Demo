@@ -17,4 +17,4 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     return response.choices[0].message.content
 response = get_completion("Take the letters in lollipop \
 and reverse them")
-print(response)
+response
