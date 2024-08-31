@@ -3,6 +3,7 @@ print(f"""Otto's dog age is {49/7}. So a dog that's about
 years ago would be in the same stage of life as Otto.""")
 dog_age = 12
 name = "watermelon"
+
 print(f"""{name}'s dog age is {dog_age}. So a dog that's about
 {dog_age} would be the same age as {name}. Any dog born about {dog_age}
 years ago would be in the same stage of life as {name}.""")
