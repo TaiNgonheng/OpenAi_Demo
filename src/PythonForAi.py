@@ -9,10 +9,3 @@ print(f"""{name}'s dog age is {dog_age}. So a dog that's about
 years ago would be in the same stage of life as {name}.""")
 
 
-
-
-
-
-
-
-
